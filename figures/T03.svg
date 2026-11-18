@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 150" width="360" height="150">
+<polygon points="153.1672,75.0000 163.4164,89.1068 180.0000,83.7185 180.0000,66.2815 163.4164,60.8932" fill="#E9A049" stroke="#38434c" stroke-width="0.40" stroke-linejoin="round"/>
+<polygon points="169.7508,97.8254 180.0000,111.9322 196.5836,106.5439 196.5836,89.1068 180.0000,83.7185" fill="#E9A049" stroke="#38434c" stroke-width="0.40" stroke-linejoin="round"/>
+<polygon points="196.5836,89.1068 206.8328,103.2137 223.4164,97.8254 223.4164,80.3883 206.8328,75.0000" fill="#E9A049" stroke="#38434c" stroke-width="0.40" stroke-linejoin="round"/>
+<polygon points="196.5836,60.8932 206.8328,75.0000 223.4164,69.6117 223.4164,52.1746 206.8328,46.7863" fill="#E9A049" stroke="#38434c" stroke-width="0.40" stroke-linejoin="round"/>
+<polygon points="206.8328,75.0000 196.5836,60.8932 180.0000,66.2815 180.0000,83.7185 196.5836,89.1068" fill="#E9A049" stroke="#38434c" stroke-width="0.40" stroke-linejoin="round"/>
+<polygon points="169.7508,52.1746 180.0000,66.2815 196.5836,60.8932 196.5836,43.4561 180.0000,38.0678" fill="#E9A049" stroke="#38434c" stroke-width="0.40" stroke-linejoin="round"/>
+<polygon points="163.4164,89.1068 153.1672,75.0000 136.5836,80.3883 136.5836,97.8254 153.1672,103.2137" fill="#70AD67" stroke="#38434c" stroke-width="0.40" stroke-linejoin="round"/>
+<polyline points="180.0000,66.2815 169.7508,52.1746" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="196.5836,60.8932 196.5836,43.4561" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="180.0000,38.0678 196.5836,43.4561" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="180.0000,38.0678 169.7508,52.1746" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="206.8328,103.2137 196.5836,89.1068" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="206.8328,103.2137 223.4164,97.8254" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="223.4164,97.8254 223.4164,80.3883" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="206.8328,75.0000 223.4164,80.3883" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="180.0000,111.9322 169.7508,97.8254" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="180.0000,111.9322 196.5836,106.5439" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="196.5836,106.5439 196.5836,89.1068" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="180.0000,83.7185 169.7508,97.8254" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="206.8328,75.0000 223.4164,69.6117" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="223.4164,69.6117 223.4164,52.1746" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="206.8328,46.7863 223.4164,52.1746" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="206.8328,46.7863 196.5836,60.8932" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="163.4164,89.1068 153.1672,75.0000" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="163.4164,89.1068 180.0000,83.7185" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="163.4164,60.8932 180.0000,66.2815" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="163.4164,60.8932 153.1672,75.0000" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="163.4164,89.1068 153.1672,75.0000" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="136.5836,80.3883 153.1672,75.0000" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="136.5836,97.8254 136.5836,80.3883" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="136.5836,97.8254 153.1672,103.2137" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="163.4164,89.1068 153.1672,103.2137" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="163.4164,89.1068 153.1672,75.0000" stroke="#8a1834" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+</svg>

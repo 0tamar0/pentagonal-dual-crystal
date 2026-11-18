@@ -1,0 +1,6 @@
+﻿kind,n,tiles,pairs,separate,point,edge,status
+A,1,6,15,5,5,5,PASS
+B,1,5,10,5,5,0,PASS
+K,1,0,0,0,0,0,PASS
+K,2,1,0,0,0,0,PASS
+L,1,4,6,1,2,3,PASS

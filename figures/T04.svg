@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 150" width="360" height="150">
+<polygon points="144.8754,60.8932 155.1246,75.0000 171.7082,69.6117 171.7082,52.1746 155.1246,46.7863" fill="#E9A049" stroke="#38434c" stroke-width="0.40" stroke-linejoin="round"/>
+<polygon points="161.4590,83.7185 171.7082,97.8254 188.2918,92.4370 188.2918,75.0000 171.7082,69.6117" fill="#E9A049" stroke="#38434c" stroke-width="0.40" stroke-linejoin="round"/>
+<polygon points="188.2918,75.0000 198.5410,89.1068 215.1246,83.7185 215.1246,66.2815 198.5410,60.8932" fill="#E9A049" stroke="#38434c" stroke-width="0.40" stroke-linejoin="round"/>
+<polygon points="188.2918,46.7863 198.5410,60.8932 215.1246,55.5048 215.1246,38.0678 198.5410,32.6795" fill="#E9A049" stroke="#38434c" stroke-width="0.40" stroke-linejoin="round"/>
+<polygon points="198.5410,60.8932 188.2918,46.7863 171.7082,52.1746 171.7082,69.6117 188.2918,75.0000" fill="#E9A049" stroke="#38434c" stroke-width="0.40" stroke-linejoin="round"/>
+<polygon points="161.4590,38.0678 171.7082,52.1746 188.2918,46.7863 188.2918,29.3493 171.7082,23.9610" fill="#E9A049" stroke="#38434c" stroke-width="0.40" stroke-linejoin="round"/>
+<polygon points="161.4590,111.9322 171.7082,126.0390 188.2918,120.6507 188.2918,103.2137 171.7082,97.8254" fill="#70AD67" stroke="#38434c" stroke-width="0.40" stroke-linejoin="round"/>
+<polyline points="171.7082,52.1746 161.4590,38.0678" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="188.2918,46.7863 188.2918,29.3493" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="171.7082,23.9610 188.2918,29.3493" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="171.7082,23.9610 161.4590,38.0678" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="198.5410,89.1068 188.2918,75.0000" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="198.5410,89.1068 215.1246,83.7185" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="215.1246,83.7185 215.1246,66.2815" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="198.5410,60.8932 215.1246,66.2815" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="171.7082,97.8254 161.4590,83.7185" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="171.7082,97.8254 188.2918,92.4370" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="188.2918,92.4370 188.2918,75.0000" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="171.7082,69.6117 161.4590,83.7185" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="198.5410,60.8932 215.1246,55.5048" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="215.1246,55.5048 215.1246,38.0678" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="198.5410,32.6795 215.1246,38.0678" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="198.5410,32.6795 188.2918,46.7863" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="155.1246,75.0000 144.8754,60.8932" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="155.1246,75.0000 171.7082,69.6117" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="155.1246,46.7863 171.7082,52.1746" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="155.1246,46.7863 144.8754,60.8932" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="171.7082,126.0390 161.4590,111.9322" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="171.7082,126.0390 188.2918,120.6507" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="188.2918,120.6507 188.2918,103.2137" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="171.7082,97.8254 188.2918,103.2137" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<polyline points="171.7082,97.8254 161.4590,111.9322" stroke="#27323a" stroke-width="1.15" fill="none"/>
+<circle cx="171.7082" cy="97.8254" r="4.0" fill="#8a1834" stroke="white" stroke-width="1"/>
+</svg>

@@ -1,0 +1,31 @@
+{
+  "manifests": [
+    59,
+    28,
+    41
+  ],
+  "inclusion": 32,
+  "unquotiented_states": 285,
+  "arcs": 20855,
+  "pruned": 19704,
+  "canonical_states": 28,
+  "canonical_arcs": 1460,
+  "base_cases": 517,
+  "base_tile_pairs": 275676,
+  "motifs": 10,
+  "figure_pairs": 662,
+  "figure_parts": 200,
+  "svg_panels": 28,
+  "svg_polygons": 10176,
+  "negative_controls": 3,
+  "standard_rules": 14,
+  "base_full_pairs": 105990,
+  "v09_manifest": 73,
+  "v09_replayed_files": 8,
+  "rank_states": 285,
+  "rank_transitions": 20855,
+  "rank_drop1": 20819,
+  "rank_drop2": 36,
+  "rank_roots": 130,
+  "source_sha256": "79655859a0097670ec9649c67b0caf8630aa8af7640691674fc757141379cf02"
+}

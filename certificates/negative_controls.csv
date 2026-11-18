@@ -1,0 +1,4 @@
+﻿case,result,status
+partial_edge,BAD_partial_edge,REJECTED
+vertex_inside_edge,BAD_partial_point,REJECTED
+positive_area,BAD_area,REJECTED

@@ -1,0 +1,11 @@
+﻿rule,gap_child,pair_state,branch,expanded_active_children,base_n2,status
+Bb_c,0,"('B', 0, 'A', 1, 1, 0, (-1, -2, -2, -1))",NONE,[],[],PASS
+Bb_c,1,"('B', 0, 'A', 1, -1, 0, (-1, -1, 0, 0))",P,"[('Ab_edge', 2), ('H', 2)]","[(('B', 'A', 'edge'), 2), (('L', 'A', 'edge'), 2)]",PASS
+Bb_c,2,"('B', 0, 'L', 1, -1, 0, (1, -1, -1, -1))",Bb_c previous,"[('Bb_c', 1)]","[(('B', 'L', 'edge'), 1)]",PASS
+Bb_c,3,"('B', 0, 'L', 1, -1, 0, (1, -1, -1, -1))",Bb_c previous,"[('Bb_c', 1)]","[(('B', 'L', 'edge'), 1)]",PASS
+Bb_c,4,"('B', 0, 'K', 1, -1, 0, (2, 0, 0, 0))",NONE,[],[],PASS
+Bb_o,0,"('B', 0, 'A', 1, -1, 0, (-1, -1, 0, 0))",P,"[('Ab_edge', 2), ('H', 2)]","[(('B', 'A', 'edge'), 2), (('L', 'A', 'edge'), 2)]",PASS
+Bb_o,1,"('B', 0, 'A', 1, 1, 0, (-1, -2, -2, -1))",NONE,[],[],PASS
+Bb_o,2,"('B', 0, 'L', 1, 1, 0, (-1, -1, -2, -2))",Bb_o previous,"[('Bb_o', 1)]","[(('B', 'L', 'edge'), 1)]",PASS
+Bb_o,3,"('B', 0, 'L', 1, 1, 0, (-1, -1, -2, -2))",Bb_o previous,"[('Bb_o', 1)]","[(('B', 'L', 'edge'), 1)]",PASS
+Bb_o,4,"('B', 0, 'K', 1, 1, 0, (-1, 0, -2, -2))",NONE,[],[],PASS
